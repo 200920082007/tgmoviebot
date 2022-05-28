@@ -1,4 +1,4 @@
-version: ""
+version: "1.2"
 services:  
    shop:
     build: .
